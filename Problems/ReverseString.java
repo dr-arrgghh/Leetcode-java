@@ -1,5 +1,10 @@
+package Problems;
+
 import java.util.Arrays;
 
+/**
+ * Reverse a string
+ */
 public class ReverseString {
 
   public void reverseString(char[] s) {
