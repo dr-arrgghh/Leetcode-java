@@ -1,7 +1,5 @@
 package Problems;
 
-import java.util.Arrays;
-
 public class ReverseStringUpgraded {
   public String reverseWords(String s) {
     String[] initial;
